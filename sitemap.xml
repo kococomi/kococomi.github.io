@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://unlicensed.astro.clinic/</loc>
+    <loc>https://unlicensed.astro.clinic/post/foo/</loc>
     <lastmod>2021-01-04T07:29:32+11:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unlicensed.astro.clinic/p/foo/</loc>
+    <loc>https://unlicensed.astro.clinic/</loc>
     <lastmod>2021-01-04T07:29:32+11:00</lastmod>
   </url>
   
@@ -18,7 +18,11 @@
   </url>
   
   <url>
-    <loc>https://unlicensed.astro.clinic/categories/</loc>
+    <loc>https://unlicensed.astro.clinic/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://unlicensed.astro.clinic/series/</loc>
   </url>
   
   <url>
