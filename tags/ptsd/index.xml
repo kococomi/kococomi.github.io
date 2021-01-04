@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ASRetro</title>
-    <link>https://unlicensed.astro.clinic/</link>
-    <description>Recent content on ASRetro</description>
+    <title>PTSD on ASRetro</title>
+    <link>https://unlicensed.astro.clinic/tags/ptsd/</link>
+    <description>Recent content in PTSD on ASRetro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 04 Jan 2021 10:04:29 +1100</lastBuildDate><atom:link href="https://unlicensed.astro.clinic/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Foo</title>
-      <link>https://unlicensed.astro.clinic/posts/foo/</link>
-      <pubDate>Mon, 04 Jan 2021 10:04:29 +1100</pubDate>
-      
-      <guid>https://unlicensed.astro.clinic/posts/foo/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sun, 24 May 2020 12:06:49 +1100</lastBuildDate><atom:link href="https://unlicensed.astro.clinic/tags/ptsd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>有關中國社交網路中「PTSD」一詞的濫用及誤用的想法 </title>
       <link>https://unlicensed.astro.clinic/posts/ptsd1.0/</link>
@@ -31,15 +22,6 @@
  不知道的例子比如：你想不起來任何導致自己害怕蜘蛛的事件，但就是沒有來由地特別害怕蜘蛛。
  知道的例子比如：你的父親在你小時候戴了一個小丑面具在晚上嚇你，你清楚明確地知道是因為這件事你長大以後才特別害怕小丑，但是長大後的你已經會因為看到小丑而本能地感到害怕 (phobia)，而不是因為小丑讓你回憶起了你的童年陰影，童年陰影使你害怕 (PTSD)。換言之，回憶那個被你父親嚇的夜晚對現在的你來說很可能並不是一件需要逃避的事，想起來也不會覺得非常恐怖，但是當時造成的對小丑的恐懼已經可以獨立於該「童年被嚇事件」存在了。
  PTSD 和 phobia 的一個重要差別就是：PTSD 患者實際恐懼的是某一創傷性事件，而 phobia 患者恐懼的則是某一類東西或場合。</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://unlicensed.astro.clinic/about/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://unlicensed.astro.clinic/about/</guid>
-      <description>中間杯最好了</description>
     </item>
     
   </channel>
