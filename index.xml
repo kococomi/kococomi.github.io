@@ -7,7 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 31 Oct 2020 12:06:49 +1100</lastBuildDate><atom:link href="https://unlicensed.astro.clinic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 05:16:46 +1000</lastBuildDate><atom:link href="https://unlicensed.astro.clinic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://unlicensed.astro.clinic/posts/my-first-post/</link>
+      <pubDate>Fri, 10 Sep 2021 05:16:46 +1000</pubDate>
+      
+      <guid>https://unlicensed.astro.clinic/posts/my-first-post/</guid>
+      <description>雖然我一度以為是常識，不過近期發現誤用實在是很普遍，所以還是簡單說一下「精神分裂症 (Schizophrenia)」和「人格分裂症 (Dissociative Identity Disorder)」的差別。
+ 這兩個疾病中比較好理解的是人格分裂症（又稱多重人格障礙），指一個人擁有一個以上的人格的情況。可能的情況是某人的一個人格是陽光向上好學生，另一個人格是陰鬱殘暴殺人狂 （但人格分裂症患者不一定有一個人格是有暴力／犯罪傾向的）。一般不同人格之間的記憶不互通，而且會有兩個人格一個是左撇子一個是右撇子，甚至處於不同人格時視力、過敏反應不一樣的奇妙現象 [1] [2] [3] 。所以動畫愛好者形容「聲優切換很多個聲線好像完全不同人在講話」時所講的「聲優精分現場」更為恰當的說法應是「聲優人格分裂現場」。很多人形容在 fediverse 擁有多個賬號時所講的「賽博精分」實際上也更接近人格分裂的定義。
+ 會造成這兩個詞混淆的一大原因是「精神分裂症」一詞的英文「Schizophrenia」是「split mind」的意思，而這個「split」或者說翻譯過後的「分裂」實際指的是現實與感知的分裂及大腦認知功能的無法協調統合運作，而非人格相關的分裂。比如說，一個健康人要聽到聲音，首先要有一個聲音存在，然後這個聲音透過耳朵內的聽覺神經細胞一路將訊號傳遞到大腦皮層，最終使人聽見聲音。但精神分裂症患者可以在根本沒有聲音的時候，在大腦皮層出現好像有聲音一樣的反應，也就是個人體驗與真實刺激是割裂的。這是精神分裂症的一個典型症狀——幻覺 (hallucination)。
+ 除了幻覺以外，精神分裂症的另一個典型症狀是「妄想 (delusion)」，即堅定地認為一些不符合現實的想法都是絕對真實的。比如，堅信生活中的種種現象都是神在和你對話（所以很多心理學者認為聖女貞德可能患有精神分裂症）。而妄想這部分也是以精神分裂症為代表的精神病性障礙 （psychotic disorders) 和犯罪關聯度較高的一部分，因為妄想的其中一個類別「被害妄想 (persecutory delusion)」，容易使患者出於「我不殺別人就會被別人殺死」的想法而採取對他們來說是「自衛」的攻擊性行為。有趣的一點是常見的妄想型別受當時社會影響。大蕭條時期美國常見的妄想是「堅信自己是富甲天下的巨賈」，而21世紀「堅信自己被 FBI/CIA 暗中監視」則更為常見。
+ 最典型的幻覺和妄想以外，精神分裂症還有一些如「不自然的肢體動作」和「言語表達混亂」（比如講話不按語義和句法，而是按照音律聯絡一直說某一個子音開頭的詞）之類的症狀，這裡就不詳細介紹，可參考 DSM-V 關於精神分裂症的診斷標準 [4]。為了避免因病名造成的對「精神分裂症」的錯誤理解，港臺及日本已經逐步將「Schizophrenia」改譯為「思覺失調症」「統合失調症」等更能概括疾病症狀和核心的名稱。
+另外，雖然精神病性障礙的患者相較於健康人，確實會有更大機率與犯罪行為有關，但按資料來說，精神病性障礙的患者成為「犯罪受害者」的可能遠大於成為「犯罪加害者」的可能。一個美國的研究的數據是精神病性障礙的患者是「暴力案件的受害者」與是「暴力案件的加害者」的比例是14:1，但新聞報導卻更傾向於導報精神分裂症患者是暴力案件的加害者的案件 [5]。此外，有研究顯示在1990 - 2010年间上映的有至少一个主要角色患有精神分裂症的电影中，83% 的精神分裂症患者被描绘为有暴力倾向，接近1/3做出了谋杀举动 [6]，而现实中精神分裂症患者杀人的概率只有0.3% [7]。
+無論是在影視作品或是現實生活中，精神病性障礙都常被「暴力狂」、「殺人犯」綁定，而相較於精神分裂症患者在現實中的犯罪率，這無疑是對其的污名化 (stigmatization)。其實在精神病領域我們也很需要平權——得到善意對待的不應該侷限於憂鬱症、焦慮症這些被認為「更脆弱」的群體，對於其他更多沒有被關注到的更小眾的疾病的患者，我們也需要更客觀、不被 stereotyping 過分左右地看待再選擇更合理的方式與其相處。</description>
+    </item>
+    
     <item>
       <title>精神分裂症與人格分裂症的差別及其犯罪傾向</title>
       <link>https://unlicensed.astro.clinic/posts/schizophrenia/</link>
