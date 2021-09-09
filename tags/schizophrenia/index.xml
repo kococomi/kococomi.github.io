@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pysch on ASRetro</title>
-    <link>https://unlicensed.astro.clinic/tags/pysch/</link>
-    <description>Recent content in pysch on ASRetro</description>
+    <title>Schizophrenia on ASRetro</title>
+    <link>https://unlicensed.astro.clinic/tags/schizophrenia/</link>
+    <description>Recent content in Schizophrenia on ASRetro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 31 Oct 2020 12:06:49 +1100</lastBuildDate><atom:link href="https://unlicensed.astro.clinic/tags/pysch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2020 12:06:49 +1100</lastBuildDate><atom:link href="https://unlicensed.astro.clinic/tags/schizophrenia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>精神分裂症與人格分裂症的差別及其犯罪傾向</title>
       <link>https://unlicensed.astro.clinic/posts/schizophrenia/</link>
@@ -21,22 +21,6 @@
  最典型的幻覺和妄想以外，精神分裂症還有一些如「不自然的肢體動作」和「言語表達混亂」（比如講話不按語義和句法，而是按照音律聯絡一直說某一個子音開頭的詞）之類的症狀，這裡就不詳細介紹，可參考 DSM-V 關於精神分裂症的診斷標準 [4]。為了避免因病名造成的對「精神分裂症」的錯誤理解，港臺及日本已經逐步將「Schizophrenia」改譯為「思覺失調症」「統合失調症」等更能概括疾病症狀和核心的名稱。
 另外，雖然精神病性障礙的患者相較於健康人，確實會有更大機率與犯罪行為有關，但按資料來說，精神病性障礙的患者成為「犯罪受害者」的可能遠大於成為「犯罪加害者」的可能。一個美國的研究的數據是精神病性障礙的患者是「暴力案件的受害者」與是「暴力案件的加害者」的比例是14:1，但新聞報導卻更傾向於導報精神分裂症患者是暴力案件的加害者的案件 [5]。此外，有研究顯示在1990 - 2010年间上映的有至少一个主要角色患有精神分裂症的电影中，83% 的精神分裂症患者被描绘为有暴力倾向，接近1/3做出了谋杀举动 [6]，而现实中精神分裂症患者杀人的概率只有0.3% [7]。
 無論是在影視作品或是現實生活中，精神病性障礙都常被「暴力狂」、「殺人犯」綁定，而相較於精神分裂症患者在現實中的犯罪率，這無疑是對其的污名化 (stigmatization)。其實在精神病領域我們也很需要平權——得到善意對待的不應該侷限於憂鬱症、焦慮症這些被認為「更脆弱」的群體，對於其他更多沒有被關注到的更小眾的疾病的患者，我們也需要更客觀、不被 stereotyping 過分左右地看待再選擇更合理的方式與其相處。</description>
-    </item>
-    
-    <item>
-      <title>有關中國社交網路中「PTSD」一詞的濫用及誤用的想法 </title>
-      <link>https://unlicensed.astro.clinic/posts/ptsd1.0/</link>
-      <pubDate>Sun, 24 May 2020 12:06:49 +1100</pubDate>
-      
-      <guid>https://unlicensed.astro.clinic/posts/ptsd1.0/</guid>
-      <description>中國社交網路近幾年興起的「PTSD」一詞的大規模使用 —— 通常是「我有 xxx PTSD」 和 「我對 xxx 有 PTSD」這種形式 —— 總是令我感到十分違和。違和的點在於：雖然理解使用者們是想借一個 mental disorder 來誇張化地表達自己的某種心理，但似乎選錯那個 disorder 了。我在中文社交網路中看到的包含「PTSD」的句子，90% 以上的情況作者實際上想表達的都是「我有關於某個東西的 phobia (恐懼症)」 而非 PTSD。
- 簡單解釋一下 PTSD 和 phobia 的區別：
- PTSD 是經歷了一個高強度的創傷性事件 (traumatic event) 後的「類後遺症」疾病。比如，強姦案的受害者會非常害怕走到強姦發生的地點、退伍老兵會非常害怕看到血與槍支。而對這些東西的「怕」或者「不適」，本質上是因為它們會讓 PTSD 患者想到他們經歷過的那個對他們來說無比恐怖、絕對不想回憶起的創傷性事件（強姦、戰爭)。也就是說，所有跟 PTSD 有關的心理不適，其實都是導致他們患上 PTSD 的核心創傷所引發的。
- 相較之下 phobia 則完全是另一個概念。常見的 phobia 包括恐高、恐水、恐蜘蛛、幽閉恐懼症等。而 phobia 的診斷不像 PTSD 一樣要求你有一個明確的、具體的、是所有不適的源頭的創傷性事件，phobia 的核心其實就是 —— 對某一類東西或場合會感到（超出其實質威脅性）的不適，這麼簡單而已。而這個不適到底源自誰，源自什麼事件，並沒有任何規定。
- 換句話說，phobia 患者可能知道也可能不知道自己為什麼會對某類東西或者場合有強烈的抗拒感。
- 不知道的例子比如：你想不起來任何導致自己害怕蜘蛛的事件，但就是沒有來由地特別害怕蜘蛛。
- 知道的例子比如：在小時候你的父親曾戴了一個小丑面具在晚上對你 jump scare，你清楚明確地知道是因為這件事你長大以後才特別害怕小丑，但是長大後的你已經會因為看到小丑而本能地感到害怕 (phobia)，而不是因為小丑讓你回憶起了你的童年陰影，童年陰影使你害怕 (PTSD)。換言之，回憶那個被你父親戴著小丑面具 jump scare 的夜晚對現在的你來說很可能並不是一件需要逃避的事，想起來也不會覺得非常恐怖，但是當時造成的對小丑的恐懼已經可以獨立於該「童年被嚇事件」存在了。
- PTSD 和 phobia 的一個重要差別就是：PTSD 患者實際恐懼的是某一創傷性事件，而 phobia 患者恐懼的則是某一類東西或場合。</description>
     </item>
     
   </channel>
