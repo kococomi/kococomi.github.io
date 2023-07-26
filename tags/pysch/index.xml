@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pysch on runif(1)</title>
-    <link>https://example.com/tags/pysch/</link>
+    <link>https://unlicensed.astro.clinic/tags/pysch/</link>
     <description>Recent content in pysch on runif(1)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 31 Oct 2020 12:06:49 +1100</lastBuildDate><atom:link href="https://example.com/tags/pysch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2020 12:06:49 +1100</lastBuildDate><atom:link href="https://unlicensed.astro.clinic/tags/pysch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>精神分裂症與人格分裂症的差別及其犯罪傾向</title>
-      <link>https://example.com/posts/2020/10/%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E7%97%87%E8%88%87%E4%BA%BA%E6%A0%BC%E5%88%86%E8%A3%82%E7%97%87%E7%9A%84%E5%B7%AE%E5%88%A5%E5%8F%8A%E5%85%B6%E7%8A%AF%E7%BD%AA%E5%82%BE%E5%90%91/</link>
+      <link>https://unlicensed.astro.clinic/posts/2020/10/%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E7%97%87%E8%88%87%E4%BA%BA%E6%A0%BC%E5%88%86%E8%A3%82%E7%97%87%E7%9A%84%E5%B7%AE%E5%88%A5%E5%8F%8A%E5%85%B6%E7%8A%AF%E7%BD%AA%E5%82%BE%E5%90%91/</link>
       <pubDate>Sat, 31 Oct 2020 12:06:49 +1100</pubDate>
       
-      <guid>https://example.com/posts/2020/10/%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E7%97%87%E8%88%87%E4%BA%BA%E6%A0%BC%E5%88%86%E8%A3%82%E7%97%87%E7%9A%84%E5%B7%AE%E5%88%A5%E5%8F%8A%E5%85%B6%E7%8A%AF%E7%BD%AA%E5%82%BE%E5%90%91/</guid>
+      <guid>https://unlicensed.astro.clinic/posts/2020/10/%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E7%97%87%E8%88%87%E4%BA%BA%E6%A0%BC%E5%88%86%E8%A3%82%E7%97%87%E7%9A%84%E5%B7%AE%E5%88%A5%E5%8F%8A%E5%85%B6%E7%8A%AF%E7%BD%AA%E5%82%BE%E5%90%91/</guid>
       <description>雖然我一度以為是常識，不過近期發現誤用實在是很普遍，所以還是簡單說一下「精神分裂症 (Schizophrenia)」和「人格分裂症 (Dissociative Identity Disorder)」的差別。
  這兩個疾病中比較好理解的是人格分裂症（又稱多重人格障礙），指一個人擁有一個以上的人格的情況。可能的情況是某人的一個人格是陽光向上好學生，另一個人格是陰鬱殘暴殺人狂 （但人格分裂症患者不一定有一個人格是有暴力／犯罪傾向的）。一般不同人格之間的記憶不互通，而且會有兩個人格一個是左撇子一個是右撇子，甚至處於不同人格時視力、過敏反應不一樣的奇妙現象 [1] [2] [3] 。所以動畫愛好者形容「聲優切換很多個聲線好像完全不同人在講話」時所講的「聲優精分現場」更為恰當的說法應是「聲優人格分裂現場」。很多人形容在 fediverse 擁有多個賬號時所講的「賽博精分」實際上也更接近人格分裂的定義。
  會造成這兩個詞混淆的一大原因是「精神分裂症」一詞的英文「Schizophrenia」是「split mind」的意思，而這個「split」或者說翻譯過後的「分裂」實際指的是現實與感知的分裂及大腦認知功能的無法協調統合運作，而非人格相關的分裂。比如說，一個健康人要聽到聲音，首先要有一個聲音存在，然後這個聲音透過耳朵內的聽覺神經細胞一路將訊號傳遞到大腦皮層，最終使人聽見聲音。但精神分裂症患者可以在根本沒有聲音的時候，在大腦皮層出現好像有聲音一樣的反應，也就是個人體驗與真實刺激是割裂的。這是精神分裂症的一個典型症狀——幻覺 (hallucination)。
@@ -25,10 +25,10 @@
     
     <item>
       <title>「PTSD」一詞的濫用誤用相關答疑匯總</title>
-      <link>https://example.com/posts/2020/09/ptsd%E4%B8%80%E8%A9%9E%E7%9A%84%E6%BF%AB%E7%94%A8%E8%AA%A4%E7%94%A8%E7%9B%B8%E9%97%9C%E7%AD%94%E7%96%91%E5%8C%AF%E7%B8%BD/</link>
+      <link>https://unlicensed.astro.clinic/posts/2020/09/ptsd%E4%B8%80%E8%A9%9E%E7%9A%84%E6%BF%AB%E7%94%A8%E8%AA%A4%E7%94%A8%E7%9B%B8%E9%97%9C%E7%AD%94%E7%96%91%E5%8C%AF%E7%B8%BD/</link>
       <pubDate>Sun, 27 Sep 2020 05:19:05 +1000</pubDate>
       
-      <guid>https://example.com/posts/2020/09/ptsd%E4%B8%80%E8%A9%9E%E7%9A%84%E6%BF%AB%E7%94%A8%E8%AA%A4%E7%94%A8%E7%9B%B8%E9%97%9C%E7%AD%94%E7%96%91%E5%8C%AF%E7%B8%BD/</guid>
+      <guid>https://unlicensed.astro.clinic/posts/2020/09/ptsd%E4%B8%80%E8%A9%9E%E7%9A%84%E6%BF%AB%E7%94%A8%E8%AA%A4%E7%94%A8%E7%9B%B8%E9%97%9C%E7%AD%94%E7%96%91%E5%8C%AF%E7%B8%BD/</guid>
       <description>** 建議疑惑「爲什麼要如此在意一個詞的用法的準確性」的朋友們直接從Q3讀起
   Q1:「PTSD」即創傷後應激障礙，我經歷過一個和 X 有關的不愉快事件，並且後續對 X 依舊感到不適，爲什麼我不滿足/不能說自己有 「X PTSD」？
  A1: 有關 PTSD 和 phobia (恐懼症) 的差別較爲詳細的介紹寫在這篇 post。這裡只說最簡要的：PTSD 患者恐懼的始終是「過去」發生的「創傷性事件 (traumatic event)」本身（e.g. 性侵受害者害怕想起「自己被性侵的經歷」），而 phobia 患者恐懼的則是「現在/未來」可能會遭遇到的某一類「物件 (object)」或者「情況 (situation)」（e.g. 恐高，恐社交場合）。
@@ -40,10 +40,10 @@
     
     <item>
       <title>有關中國社交網路中「PTSD」一詞的濫用及誤用的想法 </title>
-      <link>https://example.com/posts/2020/05/%E6%9C%89%E9%97%9C%E4%B8%AD%E5%9C%8B%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF%E4%B8%ADptsd%E4%B8%80%E8%A9%9E%E7%9A%84%E6%BF%AB%E7%94%A8%E5%8F%8A%E8%AA%A4%E7%94%A8%E7%9A%84%E6%83%B3%E6%B3%95/</link>
+      <link>https://unlicensed.astro.clinic/posts/2020/05/%E6%9C%89%E9%97%9C%E4%B8%AD%E5%9C%8B%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF%E4%B8%ADptsd%E4%B8%80%E8%A9%9E%E7%9A%84%E6%BF%AB%E7%94%A8%E5%8F%8A%E8%AA%A4%E7%94%A8%E7%9A%84%E6%83%B3%E6%B3%95/</link>
       <pubDate>Sun, 24 May 2020 12:06:49 +1100</pubDate>
       
-      <guid>https://example.com/posts/2020/05/%E6%9C%89%E9%97%9C%E4%B8%AD%E5%9C%8B%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF%E4%B8%ADptsd%E4%B8%80%E8%A9%9E%E7%9A%84%E6%BF%AB%E7%94%A8%E5%8F%8A%E8%AA%A4%E7%94%A8%E7%9A%84%E6%83%B3%E6%B3%95/</guid>
+      <guid>https://unlicensed.astro.clinic/posts/2020/05/%E6%9C%89%E9%97%9C%E4%B8%AD%E5%9C%8B%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF%E4%B8%ADptsd%E4%B8%80%E8%A9%9E%E7%9A%84%E6%BF%AB%E7%94%A8%E5%8F%8A%E8%AA%A4%E7%94%A8%E7%9A%84%E6%83%B3%E6%B3%95/</guid>
       <description>中國社交網路近幾年興起的「PTSD」一詞的大規模使用 —— 通常是「我有 xxx PTSD」 和 「我對 xxx 有 PTSD」這種形式 —— 總是令我感到十分違和。違和的點在於：雖然理解使用者們是想借一個 mental disorder 來誇張化地表達自己的某種心理，但似乎選錯那個 disorder 了。我在中文社交網路中看到的包含「PTSD」的句子，90% 以上的情況作者實際上想表達的都是「我有關於某個東西的 phobia (恐懼症)」 而非 PTSD。
  簡單解釋一下 PTSD 和 phobia 的區別：
  PTSD 是經歷了一個高強度的創傷性事件 (traumatic event) 後的「類後遺症」疾病。比如，強姦案的受害者會非常害怕走到強姦發生的地點、退伍老兵會非常害怕看到血與槍支。而對這些東西的「怕」或者「不適」，本質上是因為它們會讓 PTSD 患者想到他們經歷過的那個對他們來說無比恐怖、絕對不想回憶起的創傷性事件（強姦、戰爭)。也就是說，所有跟 PTSD 有關的心理不適，其實都是導致他們患上 PTSD 的核心創傷所引發的。

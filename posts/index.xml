@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on runif(1)</title>
-        <link>https://example.com/posts/</link>
+        <link>https://unlicensed.astro.clinic/posts/</link>
         <description>Recent content in Posts on runif(1)</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Tue, 26 Jan 2021 07:32:27 +1000</lastBuildDate>
-        <atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://unlicensed.astro.clinic/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>字面好人</title>
-            <link>https://example.com/posts/2021/01/%E5%AD%97%E9%9D%A2%E5%A5%BD%E4%BA%BA/</link>
+            <link>https://unlicensed.astro.clinic/posts/2021/01/%E5%AD%97%E9%9D%A2%E5%A5%BD%E4%BA%BA/</link>
             <pubDate>Tue, 26 Jan 2021 07:32:27 +1000</pubDate>
             
-            <guid>https://example.com/posts/2021/01/%E5%AD%97%E9%9D%A2%E5%A5%BD%E4%BA%BA/</guid>
+            <guid>https://unlicensed.astro.clinic/posts/2021/01/%E5%AD%97%E9%9D%A2%E5%A5%BD%E4%BA%BA/</guid>
             <description>我印象很深的一次喬喬和別人的衝突，是她在 twitter 看到有香港人嘲諷李子柒的名字，並在嘟站發了 public 提醒大家「柒」在粵語裡是常用髒字，有需要的話取名可以避開，後被大陸人指責這個形容是「污染簡中社區」[1]。
  那件事的後幾天，她講所有話 —— 就算是 followers-only，其語言風格的改變都讓我非常難過 —— 不停地在一些本身就無冒犯性可言的 posts 裡加一些「防槓聲明」，不停地「提前為可能感到不適的人道歉」。我真的非常非常討厭這樣。以至於後來忍不住直接去找了她，跟她說，我不希望你變成這樣。我不希望你因為他人的審視、誤會、曲解，變成一個講話小心翼翼、束手束腳的人。
  我在網路上，因為以前的一些遭遇從來無法自由自在地說話。但即使我現在對字詞斟酌無限，自我要求要做到非常嚴謹，所有科學知識我都希望貼上 reference 給出他人自己查證的空間，也改變不了這些話語依舊被他人以我無法明白的方式理解，變成另外一種與「冒犯性」「不謹慎」相反的 —— 你「知識傲慢」、「甩連結」的罪過。
@@ -33,10 +33,10 @@
         
         <item>
             <title>精神分裂症與人格分裂症的差別及其犯罪傾向</title>
-            <link>https://example.com/posts/2020/10/%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E7%97%87%E8%88%87%E4%BA%BA%E6%A0%BC%E5%88%86%E8%A3%82%E7%97%87%E7%9A%84%E5%B7%AE%E5%88%A5%E5%8F%8A%E5%85%B6%E7%8A%AF%E7%BD%AA%E5%82%BE%E5%90%91/</link>
+            <link>https://unlicensed.astro.clinic/posts/2020/10/%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E7%97%87%E8%88%87%E4%BA%BA%E6%A0%BC%E5%88%86%E8%A3%82%E7%97%87%E7%9A%84%E5%B7%AE%E5%88%A5%E5%8F%8A%E5%85%B6%E7%8A%AF%E7%BD%AA%E5%82%BE%E5%90%91/</link>
             <pubDate>Sat, 31 Oct 2020 12:06:49 +1100</pubDate>
             
-            <guid>https://example.com/posts/2020/10/%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E7%97%87%E8%88%87%E4%BA%BA%E6%A0%BC%E5%88%86%E8%A3%82%E7%97%87%E7%9A%84%E5%B7%AE%E5%88%A5%E5%8F%8A%E5%85%B6%E7%8A%AF%E7%BD%AA%E5%82%BE%E5%90%91/</guid>
+            <guid>https://unlicensed.astro.clinic/posts/2020/10/%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E7%97%87%E8%88%87%E4%BA%BA%E6%A0%BC%E5%88%86%E8%A3%82%E7%97%87%E7%9A%84%E5%B7%AE%E5%88%A5%E5%8F%8A%E5%85%B6%E7%8A%AF%E7%BD%AA%E5%82%BE%E5%90%91/</guid>
             <description>雖然我一度以為是常識，不過近期發現誤用實在是很普遍，所以還是簡單說一下「精神分裂症 (Schizophrenia)」和「人格分裂症 (Dissociative Identity Disorder)」的差別。
  這兩個疾病中比較好理解的是人格分裂症（又稱多重人格障礙），指一個人擁有一個以上的人格的情況。可能的情況是某人的一個人格是陽光向上好學生，另一個人格是陰鬱殘暴殺人狂 （但人格分裂症患者不一定有一個人格是有暴力／犯罪傾向的）。一般不同人格之間的記憶不互通，而且會有兩個人格一個是左撇子一個是右撇子，甚至處於不同人格時視力、過敏反應不一樣的奇妙現象 [1] [2] [3] 。所以動畫愛好者形容「聲優切換很多個聲線好像完全不同人在講話」時所講的「聲優精分現場」更為恰當的說法應是「聲優人格分裂現場」。很多人形容在 fediverse 擁有多個賬號時所講的「賽博精分」實際上也更接近人格分裂的定義。
  會造成這兩個詞混淆的一大原因是「精神分裂症」一詞的英文「Schizophrenia」是「split mind」的意思，而這個「split」或者說翻譯過後的「分裂」實際指的是現實與感知的分裂及大腦認知功能的無法協調統合運作，而非人格相關的分裂。比如說，一個健康人要聽到聲音，首先要有一個聲音存在，然後這個聲音透過耳朵內的聽覺神經細胞一路將訊號傳遞到大腦皮層，最終使人聽見聲音。但精神分裂症患者可以在根本沒有聲音的時候，在大腦皮層出現好像有聲音一樣的反應，也就是個人體驗與真實刺激是割裂的。這是精神分裂症的一個典型症狀——幻覺 (hallucination)。
@@ -56,10 +56,10 @@
         
         <item>
             <title>「PTSD」一詞的濫用誤用相關答疑匯總</title>
-            <link>https://example.com/posts/2020/09/ptsd%E4%B8%80%E8%A9%9E%E7%9A%84%E6%BF%AB%E7%94%A8%E8%AA%A4%E7%94%A8%E7%9B%B8%E9%97%9C%E7%AD%94%E7%96%91%E5%8C%AF%E7%B8%BD/</link>
+            <link>https://unlicensed.astro.clinic/posts/2020/09/ptsd%E4%B8%80%E8%A9%9E%E7%9A%84%E6%BF%AB%E7%94%A8%E8%AA%A4%E7%94%A8%E7%9B%B8%E9%97%9C%E7%AD%94%E7%96%91%E5%8C%AF%E7%B8%BD/</link>
             <pubDate>Sun, 27 Sep 2020 05:19:05 +1000</pubDate>
             
-            <guid>https://example.com/posts/2020/09/ptsd%E4%B8%80%E8%A9%9E%E7%9A%84%E6%BF%AB%E7%94%A8%E8%AA%A4%E7%94%A8%E7%9B%B8%E9%97%9C%E7%AD%94%E7%96%91%E5%8C%AF%E7%B8%BD/</guid>
+            <guid>https://unlicensed.astro.clinic/posts/2020/09/ptsd%E4%B8%80%E8%A9%9E%E7%9A%84%E6%BF%AB%E7%94%A8%E8%AA%A4%E7%94%A8%E7%9B%B8%E9%97%9C%E7%AD%94%E7%96%91%E5%8C%AF%E7%B8%BD/</guid>
             <description>** 建議疑惑「爲什麼要如此在意一個詞的用法的準確性」的朋友們直接從Q3讀起
   Q1:「PTSD」即創傷後應激障礙，我經歷過一個和 X 有關的不愉快事件，並且後續對 X 依舊感到不適，爲什麼我不滿足/不能說自己有 「X PTSD」？
  A1: 有關 PTSD 和 phobia (恐懼症) 的差別較爲詳細的介紹寫在這篇 post。這裡只說最簡要的：PTSD 患者恐懼的始終是「過去」發生的「創傷性事件 (traumatic event)」本身（e.g. 性侵受害者害怕想起「自己被性侵的經歷」），而 phobia 患者恐懼的則是「現在/未來」可能會遭遇到的某一類「物件 (object)」或者「情況 (situation)」（e.g. 恐高，恐社交場合）。
@@ -112,10 +112,10 @@
         
         <item>
             <title>用「你知道一年要死多少緝毒警察嗎」以外的思路聊聊毒品問題</title>
-            <link>https://example.com/posts/2020/08/%E7%94%A8%E4%BD%A0%E7%9F%A5%E9%81%93%E4%B8%80%E5%B9%B4%E8%A6%81%E6%AD%BB%E5%A4%9A%E5%B0%91%E7%B7%9D%E6%AF%92%E8%AD%A6%E5%AF%9F%E5%97%8E%E4%BB%A5%E5%A4%96%E7%9A%84%E6%80%9D%E8%B7%AF%E8%81%8A%E8%81%8A%E6%AF%92%E5%93%81%E5%95%8F%E9%A1%8C/</link>
+            <link>https://unlicensed.astro.clinic/posts/2020/08/%E7%94%A8%E4%BD%A0%E7%9F%A5%E9%81%93%E4%B8%80%E5%B9%B4%E8%A6%81%E6%AD%BB%E5%A4%9A%E5%B0%91%E7%B7%9D%E6%AF%92%E8%AD%A6%E5%AF%9F%E5%97%8E%E4%BB%A5%E5%A4%96%E7%9A%84%E6%80%9D%E8%B7%AF%E8%81%8A%E8%81%8A%E6%AF%92%E5%93%81%E5%95%8F%E9%A1%8C/</link>
             <pubDate>Tue, 11 Aug 2020 03:15:56 +1100</pubDate>
             
-            <guid>https://example.com/posts/2020/08/%E7%94%A8%E4%BD%A0%E7%9F%A5%E9%81%93%E4%B8%80%E5%B9%B4%E8%A6%81%E6%AD%BB%E5%A4%9A%E5%B0%91%E7%B7%9D%E6%AF%92%E8%AD%A6%E5%AF%9F%E5%97%8E%E4%BB%A5%E5%A4%96%E7%9A%84%E6%80%9D%E8%B7%AF%E8%81%8A%E8%81%8A%E6%AF%92%E5%93%81%E5%95%8F%E9%A1%8C/</guid>
+            <guid>https://unlicensed.astro.clinic/posts/2020/08/%E7%94%A8%E4%BD%A0%E7%9F%A5%E9%81%93%E4%B8%80%E5%B9%B4%E8%A6%81%E6%AD%BB%E5%A4%9A%E5%B0%91%E7%B7%9D%E6%AF%92%E8%AD%A6%E5%AF%9F%E5%97%8E%E4%BB%A5%E5%A4%96%E7%9A%84%E6%80%9D%E8%B7%AF%E8%81%8A%E8%81%8A%E6%AF%92%E5%93%81%E5%95%8F%E9%A1%8C/</guid>
             <description>很多人聽到「毒品使用合法化 (legalization)／除罪化 (decriminalization) *」都會問的一個問題是「為什麼任何政府會想要讓一個有害的東西的使用變得正當」。這裡不從醫學角度談大麻的特殊性（以很多指標看其成癮率遠低於菸酒且有醫療價值），而是從犯罪學的角度聊聊毒品（而不只是大麻）的有關政策。
  不同政府的毒品政策的寬鬆跨度相當之大，而這些不同政策的背後其實有一個很重要的出發點，即「是否認為毒品的交易和使用在管轄區內是可以大幅降低甚至消除的」。至少在西方犯罪學界，許多人對這個問題都持悲觀態度。因為很多采取相當嚴厲的毒品政策的國家，比如中國，在減少毒品的使用上其實都收效甚微。
  暗網上有一個很大的國際毒品交易站點叫「the Silk Road (絲綢之路) 」，可以被看作是毒品界的 Amazon。如果現在問，「若有足夠的技術支援，政府應該選擇關停這個毒品交易網嗎」，你會怎麼回答？
@@ -146,10 +146,10 @@
         
         <item>
             <title>有關中國社交網路中「PTSD」一詞的濫用及誤用的想法 </title>
-            <link>https://example.com/posts/2020/05/%E6%9C%89%E9%97%9C%E4%B8%AD%E5%9C%8B%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF%E4%B8%ADptsd%E4%B8%80%E8%A9%9E%E7%9A%84%E6%BF%AB%E7%94%A8%E5%8F%8A%E8%AA%A4%E7%94%A8%E7%9A%84%E6%83%B3%E6%B3%95/</link>
+            <link>https://unlicensed.astro.clinic/posts/2020/05/%E6%9C%89%E9%97%9C%E4%B8%AD%E5%9C%8B%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF%E4%B8%ADptsd%E4%B8%80%E8%A9%9E%E7%9A%84%E6%BF%AB%E7%94%A8%E5%8F%8A%E8%AA%A4%E7%94%A8%E7%9A%84%E6%83%B3%E6%B3%95/</link>
             <pubDate>Sun, 24 May 2020 12:06:49 +1100</pubDate>
             
-            <guid>https://example.com/posts/2020/05/%E6%9C%89%E9%97%9C%E4%B8%AD%E5%9C%8B%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF%E4%B8%ADptsd%E4%B8%80%E8%A9%9E%E7%9A%84%E6%BF%AB%E7%94%A8%E5%8F%8A%E8%AA%A4%E7%94%A8%E7%9A%84%E6%83%B3%E6%B3%95/</guid>
+            <guid>https://unlicensed.astro.clinic/posts/2020/05/%E6%9C%89%E9%97%9C%E4%B8%AD%E5%9C%8B%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF%E4%B8%ADptsd%E4%B8%80%E8%A9%9E%E7%9A%84%E6%BF%AB%E7%94%A8%E5%8F%8A%E8%AA%A4%E7%94%A8%E7%9A%84%E6%83%B3%E6%B3%95/</guid>
             <description>中國社交網路近幾年興起的「PTSD」一詞的大規模使用 —— 通常是「我有 xxx PTSD」 和 「我對 xxx 有 PTSD」這種形式 —— 總是令我感到十分違和。違和的點在於：雖然理解使用者們是想借一個 mental disorder 來誇張化地表達自己的某種心理，但似乎選錯那個 disorder 了。我在中文社交網路中看到的包含「PTSD」的句子，90% 以上的情況作者實際上想表達的都是「我有關於某個東西的 phobia (恐懼症)」 而非 PTSD。
  簡單解釋一下 PTSD 和 phobia 的區別：
  PTSD 是經歷了一個高強度的創傷性事件 (traumatic event) 後的「類後遺症」疾病。比如，強姦案的受害者會非常害怕走到強姦發生的地點、退伍老兵會非常害怕看到血與槍支。而對這些東西的「怕」或者「不適」，本質上是因為它們會讓 PTSD 患者想到他們經歷過的那個對他們來說無比恐怖、絕對不想回憶起的創傷性事件（強姦、戰爭)。也就是說，所有跟 PTSD 有關的心理不適，其實都是導致他們患上 PTSD 的核心創傷所引發的。
