@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Schizophrenia on ASRetro</title>
-    <link>https://unlicensed.astro.clinic/tags/schizophrenia/</link>
-    <description>Recent content in Schizophrenia on ASRetro</description>
+    <title>Schizophrenia on runif(1)</title>
+    <link>https://example.com/tags/schizophrenia/</link>
+    <description>Recent content in Schizophrenia on runif(1)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 31 Oct 2020 12:06:49 +1100</lastBuildDate><atom:link href="https://unlicensed.astro.clinic/tags/schizophrenia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2020 12:06:49 +1100</lastBuildDate><atom:link href="https://example.com/tags/schizophrenia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>精神分裂症與人格分裂症的差別及其犯罪傾向</title>
-      <link>https://unlicensed.astro.clinic/posts/schizophrenia/</link>
+      <link>https://example.com/posts/2020/10/%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E7%97%87%E8%88%87%E4%BA%BA%E6%A0%BC%E5%88%86%E8%A3%82%E7%97%87%E7%9A%84%E5%B7%AE%E5%88%A5%E5%8F%8A%E5%85%B6%E7%8A%AF%E7%BD%AA%E5%82%BE%E5%90%91/</link>
       <pubDate>Sat, 31 Oct 2020 12:06:49 +1100</pubDate>
       
-      <guid>https://unlicensed.astro.clinic/posts/schizophrenia/</guid>
+      <guid>https://example.com/posts/2020/10/%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E7%97%87%E8%88%87%E4%BA%BA%E6%A0%BC%E5%88%86%E8%A3%82%E7%97%87%E7%9A%84%E5%B7%AE%E5%88%A5%E5%8F%8A%E5%85%B6%E7%8A%AF%E7%BD%AA%E5%82%BE%E5%90%91/</guid>
       <description>雖然我一度以為是常識，不過近期發現誤用實在是很普遍，所以還是簡單說一下「精神分裂症 (Schizophrenia)」和「人格分裂症 (Dissociative Identity Disorder)」的差別。
  這兩個疾病中比較好理解的是人格分裂症（又稱多重人格障礙），指一個人擁有一個以上的人格的情況。可能的情況是某人的一個人格是陽光向上好學生，另一個人格是陰鬱殘暴殺人狂 （但人格分裂症患者不一定有一個人格是有暴力／犯罪傾向的）。一般不同人格之間的記憶不互通，而且會有兩個人格一個是左撇子一個是右撇子，甚至處於不同人格時視力、過敏反應不一樣的奇妙現象 [1] [2] [3] 。所以動畫愛好者形容「聲優切換很多個聲線好像完全不同人在講話」時所講的「聲優精分現場」更為恰當的說法應是「聲優人格分裂現場」。很多人形容在 fediverse 擁有多個賬號時所講的「賽博精分」實際上也更接近人格分裂的定義。
  會造成這兩個詞混淆的一大原因是「精神分裂症」一詞的英文「Schizophrenia」是「split mind」的意思，而這個「split」或者說翻譯過後的「分裂」實際指的是現實與感知的分裂及大腦認知功能的無法協調統合運作，而非人格相關的分裂。比如說，一個健康人要聽到聲音，首先要有一個聲音存在，然後這個聲音透過耳朵內的聽覺神經細胞一路將訊號傳遞到大腦皮層，最終使人聽見聲音。但精神分裂症患者可以在根本沒有聲音的時候，在大腦皮層出現好像有聲音一樣的反應，也就是個人體驗與真實刺激是割裂的。這是精神分裂症的一個典型症狀——幻覺 (hallucination)。
