@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://unlicensed.astro.clinic/tags/animals/</loc>
+    <lastmod>2023-07-29T07:15:16+10:00</lastmod>
+  </url><url>
     <loc>https://unlicensed.astro.clinic/tags/chitchat/</loc>
-    <lastmod>2021-01-26T07:32:27+10:00</lastmod>
+    <lastmod>2023-07-29T07:15:16+10:00</lastmod>
+  </url><url>
+    <loc>https://unlicensed.astro.clinic/posts/2023/07/my-felonies/</loc>
+    <lastmod>2023-07-29T07:15:16+10:00</lastmod>
   </url><url>
     <loc>https://unlicensed.astro.clinic/posts/</loc>
-    <lastmod>2021-01-26T07:32:27+10:00</lastmod>
+    <lastmod>2023-07-29T07:15:16+10:00</lastmod>
   </url><url>
     <loc>https://unlicensed.astro.clinic/</loc>
-    <lastmod>2021-01-26T07:32:27+10:00</lastmod>
+    <lastmod>2023-07-29T07:15:16+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -22,7 +28,7 @@
                 />
   </url><url>
     <loc>https://unlicensed.astro.clinic/tags/</loc>
-    <lastmod>2021-01-26T07:32:27+10:00</lastmod>
+    <lastmod>2023-07-29T07:15:16+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
